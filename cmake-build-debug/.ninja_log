@@ -1,0 +1,26 @@
+# ninja log v6
+3	99	7533978780063655	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+13	88	7533979118163407	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+18	94	7533979118204362	CMakeFiles/Trabalho2C.dir/graph.c.obj	aedcefef432ec2de
+94	236	7533979118976752	Trabalho2C.exe	c2ed7b92b1039021
+23	141	7533982254564100	CMakeFiles/Trabalho2C.dir/graph.c.obj	aedcefef432ec2de
+14	81	7533982811463865	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+81	211	7533982812138293	Trabalho2C.exe	c2ed7b92b1039021
+6	74	7533983744619941	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+75	158	7533983745308831	Trabalho2C.exe	c2ed7b92b1039021
+13	80	7533985799642800	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+80	164	7533985800312797	Trabalho2C.exe	c2ed7b92b1039021
+16	97	7533988758820705	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+20	99	7533988758860774	CMakeFiles/Trabalho2C.dir/graph.c.obj	aedcefef432ec2de
+99	185	7533988759654230	Trabalho2C.exe	c2ed7b92b1039021
+8	82	7533996293776867	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+82	166	7533996294515692	Trabalho2C.exe	c2ed7b92b1039021
+12	77	7533996397250066	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+77	162	7533996397910094	Trabalho2C.exe	c2ed7b92b1039021
+15	86	7533998436381687	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+20	105	7533998436427624	CMakeFiles/Trabalho2C.dir/graph.c.obj	aedcefef432ec2de
+105	196	7533998437282067	Trabalho2C.exe	c2ed7b92b1039021
+15	88	7533998540231113	CMakeFiles/Trabalho2C.dir/main.c.obj	478c943bcc8454f4
+89	176	7533998540968746	Trabalho2C.exe	c2ed7b92b1039021
+8	103	7534006157107890	CMakeFiles/Trabalho2C.dir/graph.c.obj	aedcefef432ec2de
+104	190	7534006158072141	Trabalho2C.exe	c2ed7b92b1039021

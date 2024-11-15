@@ -1,0 +1,3 @@
+C:/Users/Pedro/trabalho2C/cmake-build-debug/CMakeFiles/Trabalho2C.dir
+C:/Users/Pedro/trabalho2C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pedro/trabalho2C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
